@@ -1,0 +1,42 @@
+#body{
+  background: #6908e7;
+}
+
+#info{
+  display: flex;
+  justify-content: center;
+}
+#ajustargraf{
+  height: 200px !important;
+  width: 50% !important;
+}
+#mapid {
+  background-color: #EBE9BC;
+  margin: auto;
+  margin-top: 10px;
+  height: 400px;
+  width: 1500px;
+}
+p{
+  display: none;
+}
+table{
+  margin-top: 2%;
+  font-size: 12px;
+  font-weight:bold;
+  background-color: #fdfdf1;
+  color: black;
+  font-family: Arial;
+  text-align:left;
+  height: 210px;
+  width: 600px;
+}
+table td , table th{
+  padding: 5px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-right-color: #EBE9BC;
+  border-bottom-color: #EBE9BC;
+}
